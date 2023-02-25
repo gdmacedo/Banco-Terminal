@@ -3,7 +3,7 @@ Faculdade DIO - Digital Innovation One
 
 #### Autores
 ### Discente:
-- [Macedo, Glener Diniz] (https://www.linkedin.com/in/glener-diniz-macedo-789732a8/)
+- [Macedo, Glener Diniz](https://www.linkedin.com/in/glener-diniz-macedo-789732a8/)
 
 ### Docente:/Orientador
 - [Gleyson Sampaio](https://github.com/glysns)
